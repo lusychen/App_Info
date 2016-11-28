@@ -1,2 +1,9 @@
 # App_Info
-give a package name of a app,get it's information such as app name, catagory, brief introduction  take advantage of Scrapy(crawl)
+give a package name of a app,get it's information such as app name, catagory, brief introduction  take advantage of Scrapy(crawler)
+for example:
+give a package:'qsbk.app'
+get information:
+qsbk.app www.coolapk.com  糗事百科  笑话,段子,资讯阅读	你在生活中遇到过什么尴尬.......     
+qsbk.app apk.hiapk.com    糗事百科  生活	                最爆笑的原创糗事、最接地气的糗友圈、最无节操的话题讨论......
+qsbk.app www.appchina.com 糗事百科  图书阅读	        最的糗事、最接地气的糗友圈、最的话题讨论、最有趣的织	
+qsbk.app www.lenovomm.com                糗事百科	                    聊天.社交	                最爆笑的原创糗事、最接地气的糗友圈、最无节操的话题讨论、最有趣的群组织、最百变的美女主播，尽在糗事百科~温馨提示：下载本应用前，请先原谅自己不羁放纵笑点低！—————— 更多玩法 ——————【糗事】上下班路上、睡前太无聊？那些尴尬的事儿、奇葩的经历让你脑洞大开笑不停ヾ(^▽^*)))【糗友圈】隔壁的女神太多，糗友圈刷到根本停不下来୧(﹒︠ᴗ﹒︡)୨【话题】＃女朋友没胸，吃成土肥圆，你愿意娶她吗？＃等更多话题等你来讨论，我只和有趣的人聊有趣的事儿٩(ˊᗜˋ*)و【群】糗友遍及全国各地，加入当地糗友群，一个人的时候还有组织陪着你(๑´ڡ`๑)【小鸡炖蘑菇】有无节操女主播的犀利吐槽，更有路人甲乙丙丁的恶搞环节，每周三主播妹子们和你不见不散哟(⁎⁍̴̛ᴗ⁍̴̛⁎)—————— 糗友评价 ——————“这里既有我喜欢的人，也有喜欢我的人。在糗百，不孤单”——女神“每晚睡觉前的催眠读物”——隔壁老王“苦难生活中的一支麻醉剂，看到很多比自己惨的，心理就平衡多了”——疯一样的男子—————— 联系我们 ——————1、进入设置 -> 意见反馈，或者加入问题反馈群：274070027，就可以把你的宝贵意见告诉给我们啦~2、微博：@糗事百科3、微信公众号：qiubai2005	qsbk.app	www.lenovomm.com
