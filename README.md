@@ -4,7 +4,7 @@ for example:
 #give a package:'qsbk.app'
 #get information:
 
-apk                       name     keywords              desc
+apk      source                 name     keywords              desc
 
 qsbk.app www.coolapk.com  糗事百科  笑话,段子,资讯阅读	   你在生活中遇到过什么尴尬。。。。 
 
