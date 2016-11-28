@@ -1,9 +1,9 @@
 # App_Info
-give a package name of a app,get it's information such as app name, catagory, brief introduction  take advantage of Scrapy(crawler)
+#give a package name of a app,get it's information such as app name, catagory, brief introduction  take advantage of Scrapy(crawler)
 for example: 
+#give a package:'qsbk.app'
+#get information:
 
-give a package:'qsbk.app'
-get information:
 apk                       name     keywords              desc
 qsbk.app www.coolapk.com  糗事百科  笑话,段子,资讯阅读	   你在生活中遇到过什么尴尬。。。。 
 qsbk.app apk.hiapk.com    糗事百科  生活	                 最爆笑的原创糗事、最接地气的糗友圈、最无节操的话题讨论。。。。
